@@ -7,23 +7,23 @@
   },
   "test_build_lm": {
     "english_2_gram_length": 746,
-    "english_3_gram_length": 8194,
-    "french_3_gram_length": 8223,
-    "spanish_3_gram_length": 8445
+    "english_3_gram_length": 8458,
+    "french_3_gram_length": 8501,
+    "spanish_3_gram_length": 8738
   },
   "test_eval": {
-    "en_on_en": 16.8,
-    "en_on_fr": 42.53,
-    "en_on_tl": 34.69,
-    "en_on_nl": 34.6
+    "en_on_en": 26.42,
+    "en_on_fr": 65.87,
+    "en_on_tl": 58.73,
+    "en_on_nl": 53.97
   },
   "test_generate": {
-    "english_2_gram": "I amare e RT I B g d> ar",
+    "english_2_gram": "I amare fof Whtart co ar",
     "english_3_gram": "I aman whe a the cand><unk><unk>",
     "english_4_gram": "I Love you was to come a F",
-    "spanish_2_gram": "Soy bend> <ende ende en",
+    "spanish_2_gram": "Soy Cuende .co hta @ps ",
     "spanish_3_gram": "Soy or co/rbiend><unk><unk><unk><unk><unk><unk>",
-    "french_2_gram": "Je suis #Mare Jende ps RT S",
-    "french_3_gram": "Je suis je tour de co/LUule"
+    "french_2_gram": "Je suis V Ende Ende ps @Lar",
+    "french_3_gram": "Je suis je tour de #Part><s"
   }
 }
