@@ -13,9 +13,9 @@
   },
   "test_eval": {
     "en_on_en": 26.74,
-    "en_on_fr": 79.85,
-    "en_on_tl": 74.79,
-    "en_on_nl": 64.4
+    "en_on_fr": 58.49,
+    "en_on_tl": 70.59,
+    "en_on_nl": 61.41
   },
   "test_generate": {
     "english_2_gram": "I amar Wole Whthe be g 7",
