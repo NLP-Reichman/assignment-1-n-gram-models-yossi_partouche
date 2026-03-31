@@ -6,24 +6,24 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 746,
-    "english_3_gram_length": 8458,
-    "french_3_gram_length": 8501,
-    "spanish_3_gram_length": 8738
+    "english_2_gram_length": 747,
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
   },
   "test_eval": {
-    "en_on_en": 26.42,
-    "en_on_fr": 65.87,
-    "en_on_tl": 58.73,
-    "en_on_nl": 53.97
+    "en_on_en": 68.92,
+    "en_on_fr": 166.98,
+    "en_on_tl": 185.82,
+    "en_on_nl": 142.13
   },
   "test_generate": {
-    "english_2_gram": "I amare fof Whtart co ar",
-    "english_3_gram": "I aman whe a the cand><unk><unk>",
+    "english_2_gram": "I amar Wole Whthe be g 7",
+    "english_3_gram": "I aman whe a the cand a ",
     "english_4_gram": "I Love you was to come a F",
-    "spanish_2_gram": "Soy Cuende .co hta @ps ",
-    "spanish_3_gram": "Soy or co/rbiend><unk><unk><unk><unk><unk><unk>",
-    "french_2_gram": "Je suis V Ende Ende ps @Lar",
-    "french_3_gram": "Je suis je tour de #Part><s"
+    "spanish_2_gram": "Soy Cue w va GRT ue e D",
+    "spanish_3_gram": "Soy or co/rbien es http",
+    "french_2_gram": "Je suis V Ente Ente ps @Las",
+    "french_3_gram": "Je suis je tour de #Partion"
   }
 }
